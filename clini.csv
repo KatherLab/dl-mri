@@ -1,0 +1,4 @@
+id,ori_path,mask_path,os,os_e,dfs,dfs_e
+A1,../input/rc/ori/A1/t2,../input/rc/mask/pre-A1.nii,100,1,100,1
+A2,../input/rc/ori/A2/t2,../input/rc/mask/pre-A2.nii,100,0,100,0
+A3,../input/rc/ori/A3/t2,../input/rc/mask/pre-A3.nii,100,1,100,1
